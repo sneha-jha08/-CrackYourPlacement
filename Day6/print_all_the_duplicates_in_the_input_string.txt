@@ -1,0 +1,4 @@
+hashmaps
+check if a char exists
+if it does add it to another list and return.
+if not add the char to the hashmap
