@@ -12,4 +12,7 @@ class Solution:
                 if B:B=B.next
                 else:B=headA
             return A
+        
+        #here we're returning the value where A=B and not actually intersecting it
+        
           
